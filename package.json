@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@xaviabot/fca-unofficial": "^1.4.0",
+    "express": "^4.19.1"
+  }
+}
